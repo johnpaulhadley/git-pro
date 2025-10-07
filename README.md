@@ -6,7 +6,7 @@ This repository was created as part of a lifelong learning project to master Git
 
 ### Version Control Workflows
 - **Branching Strategy**: Feature branch workflow with `main` as the stable branch
-- **Commit Conventions**: Atomic commits following Conventional Commits style (`feat:`, `fix:`, `docs:`)
+- **Commit Conventions**: Atomic commits following conventional commits style
 - **Pull Requests**: Merge changes through pull requests for code review simulation
 - **Conflict Resolution**: Documented merge conflict resolution process
 
@@ -14,7 +14,7 @@ This repository was created as part of a lifelong learning project to master Git
 - Rebasing and merge strategies
 - Stashing changes for context switching
 - Using `git reflog` for recovery
-- Release tagging (e.g., `v1.0.0`)
+- Release tagging
 
 ## Repository Structure
 git-pro/
